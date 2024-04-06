@@ -8,7 +8,7 @@
 </ul>
 🇬🇧
 <ul>
-  <li>I am a Computer Engineering student @ Università degli Studi "La Sapienza", Roma. </li>
+  <li>I am a <b>Computer Engineering</b> student @ Università degli Studi "La Sapienza", Roma. </li>
   <li>My main areas of interests are about low-level programming: server maintenance, operating systems and computer architecture. </li>
   <li>On my GitHub profile, you can expect to find all the repos of the course I've took during my degree (mostly those in some way related to computer science), and at times a personal project of mine. </li> 
 </ul>
