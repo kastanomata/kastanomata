@@ -14,9 +14,6 @@
 </ul>
 <h3 align="left">Contatti:</h3>
 you can find me at <i>antonyo.turco@gmail.com</i> for any personal and work-related enquiries.
-<p align="left">
-<a href="https://linkedin.com/in/antonyoturco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonyoturco" height="30" width="60" /></a>
-</p>
 
 <h2 align="left">Some of the things I dabble in:</h2>
 <p align="center"> 
