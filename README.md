@@ -1,14 +1,17 @@
 <h1 align="left">Ciao, sono Antonio</h1>
 <!--- <h3 align="right"></h3> --->
 🇮🇹
-- Sono uno studente del corso di laurea in <b>Ingegneria Informatica</b> presso l'Università degli Studi di Roma "La Sapienza".
-- I miei interessi principali in questo momento risiedono nel low-level: il funzionamento dei server, dei sistemi operativi e delle architetture dei calcolatori.
-- Sul mio profilo GitHub, potete aspettarvi di trovare le repo relative ai vari corsi che ho seguito durante la mia laurea (principalmente quelli legati all'informatica), e saltuariamente un mio progetto personale.
+<ul>
+  <li>Sono uno studente del corso di laurea in <b>Ingegneria Informatica</b> presso l'Università degli Studi di Roma "La Sapienza".</li>
+  <li>I miei interessi principali in questo momento risiedono nel low-level: il funzionamento dei server, dei sistemi operativi e delle architetture dei calcolatori.</li>
+  <li>Sul mio profilo GitHub, potete aspettarvi di trovare le repo relative ai vari corsi che ho seguito durante la mia laurea (principalmente quelli legati all'informatica), e saltuariamente un mio progetto personale.</li>
+</ul>
 🇬🇧
-- I am a Computer Engineering student @ Università degli Studi "La Sapienza", Roma, Italia
-- My main areas of interests are about low-level programming: server maintenance, operating systems and computer architecture.
-- On my GitHub profile, you can expect to find all the repos of the course I've took during my degree (mostly those in some way related to computer science), and at times a personal project of mine.  
-
+<ul>
+  <li>I am a Computer Engineering student @ Università degli Studi "La Sapienza", Roma. </li>
+  <li>My main areas of interests are about low-level programming: server maintenance, operating systems and computer architecture. </li>
+  <li>On my GitHub profile, you can expect to find all the repos of the course I've took during my degree (mostly those in some way related to computer science), and at times a personal project of mine. </li> 
+</ul>
 <h3 align="left">Contatti:</h3>
 you can find me at <i>antonyo.turco@gmail.com</i> for any personal and work-related enquiries.
 <p align="left">
