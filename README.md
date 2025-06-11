@@ -1,4 +1,3 @@
-<h1 align="left">Ciao, sono Antonio</h1>
 <!--- <h3 align="right"></h3> --->
 🇮🇹
 <ul>
